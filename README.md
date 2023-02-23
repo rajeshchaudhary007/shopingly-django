@@ -1,0 +1,1 @@
+# shopingly-django
